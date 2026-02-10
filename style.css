@@ -1,4 +1,7 @@
-body{
-    font-family: cursive;
-    width: 250px;
+#section-1
+{border: 20px solid black;
+margin: 30px;
+padding :20px;
+display: flex;
+display: block;
 }
